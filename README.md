@@ -11,6 +11,4 @@ The image below is how the leds were setup on the board during testing. Replicat
 
 The pins used were 13,12 and 11. 
 
-The following image shows the input on the serial console and the subsequent led event.
-
 ##COPYRIGHT MICHEL CHATMAJIAN 2016
