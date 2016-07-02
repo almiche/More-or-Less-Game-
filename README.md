@@ -6,7 +6,11 @@ This is a simple game which requires 3 leds to be connected to an arduino board.
 
 ##Get started
 The image below is how the leds were setup on the board during testing. Replicating the setup will yeild the best results while playing.
-[INSERT IMAGE]
 
+![13570023_10207030996315504_111427388_o](https://cloud.githubusercontent.com/assets/14715156/16542847/a4dec6fa-4088-11e6-93ff-6278d0769551.jpg)
+
+The pins used were 13,12 and 11. 
+
+The following image shows the input on the serial console and the subsequent led event.
 
 ##COPYRIGHT MICHEL CHATMAJIAN 2016
